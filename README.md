@@ -1,2 +1,5 @@
 # MicroServicesJava
-![Screenshot](MSModel.png)
+# Real-time microservices project using Spring Boot, and Spring Cloud technologies
+#
+![Screenshot](msmodel.png)
+![Screenshot](msarchitecture.png)
