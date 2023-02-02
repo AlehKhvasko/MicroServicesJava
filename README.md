@@ -1,2 +1,2 @@
 # MicroServicesJava
-![Screenshot](MS Model.png)
+![Screenshot](MSModel.png)
